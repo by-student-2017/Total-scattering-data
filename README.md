@@ -2,7 +2,7 @@
 
 
 ## Acknowledgments
-  Thanks to the kindness of the beamline staff, we received the data for practice. Thanks
+  Thanks to the kindness of the beamline staff, i received the data for practice. Thank you.
 
 
 ## Analysis software (free soft)
